@@ -1,12 +1,19 @@
 .grid {
   display: grid;
-  box-sizing: border-box;
   height: 100vh;
-  /* width: 100vw; */
   place-items: center;
 }
 
-* {
+h2,
+p {
+  box-sizing: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden
 }
