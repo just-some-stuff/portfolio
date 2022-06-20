@@ -1,4 +1,3 @@
-# portfolio
-My personal website
+# Portfolio
 
-Hosted at [GitHub Pages](https://just-some-stuff.github.io/portfolio/)
+### Hosted at http://arpitjp.in/
