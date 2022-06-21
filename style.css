@@ -18,14 +18,13 @@
 
 @media only screen and (min-width: 768px) {
   /* disabling scrollbar */
-  html,
-  body {
+  html, body {
     margin: 0;
     height: 100%;
     overflow: hidden
   }
 
   .grid>div {
-    margin-bottom: 180px;
+    margin-bottom: 165px;
   }
 }
