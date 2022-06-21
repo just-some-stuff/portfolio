@@ -6,15 +6,18 @@
   place-items: center;
 }
 
-h1,
-p {
+.grid>div {
+  margin-bottom: 150px;
+}
+
+* {
   box-sizing: border-box;
   font-family: 'Sriracha', cursive;
   text-align: center;
 }
 
-html,
-body {
+/* disabling scrollbar */
+html, body {
   margin: 0;
   height: 100%;
   overflow: hidden
